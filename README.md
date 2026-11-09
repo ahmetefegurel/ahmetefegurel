@@ -37,11 +37,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 <table>
   <tr>
-    <td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ahmetefegurel/temahub">🏢 TemaHUB</a></h3>
+      A resident app for a residential complex: announcements, requests, a marketplace, a guide and an interactive <b>3D site map</b>. Row Level Security keeps the data safe.<br/><br/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/ahmetefegurel/turkce-tts-eval">🔊 turkce-tts-eval</a></h3>
       A self-hosted evaluation harness for <b>Turkish text-to-speech</b>.<br/><br/>
       <img src="https://img.shields.io/badge/dual--ASR-round--trip-7aa2f7?style=flat-square" alt="dual-ASR"/>
