@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Ahmet%20Efe%20G%C3%BCrel&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Math%20Engineering%20%C2%B7%20Backend%20%C2%B7%20Applied%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Mathematical+Engineering+%40+Y%C4%B1ld%C4%B1z+Technical+University;.NET+%26+MS+SQL+backend+developer;Moving+into+applied+AI+%2F+ML+engineering;Evaluating+Turkish+speech+models" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Mathematical+Engineering+%40+YT%C3%9C;.NET+%26+MS+SQL+backend+developer;Moving+into+applied+AI+%2F+ML+engineering;Evaluating+Turkish+speech+models" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
